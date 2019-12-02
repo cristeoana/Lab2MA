@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab2MA</string>
+    <string name="action_settings">Settings</string>
+    <string name="update_string">Update/remove tool</string>
+
+    <string name="add_id">Give the id</string>
+    <string name="add_country">Give the country name</string>
+    <string name="add_city">Give the city name</string>
+    <string name="add_price">Give the price for destination</string>
+    <string name="add_description">Give a description</string>
+
+    <string name="label_city">City: </string>
+    <string name="label_price">Price: </string>
+    <string name="label_description">Description: </string>
+
+    <string name="button_cancel">Cancel</string>
+    <string name="button_add">Add</string>
+    <string name="button_remove">Remove</string>
+    <string name="button_update">Update</string>
+
+</resources>
